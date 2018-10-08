@@ -1,0 +1,34 @@
+{
+  "metadata": {
+		"version": 4.3
+	},
+  "geometries":[
+    {
+      "uuid": "C3BF1E70-0BE7-4E6D-B184-C9F1E84A3423",
+      "type": "BufferGeometry",
+      "data": {
+        "attributes": {
+          "position": {
+            "itemSize": 3,
+            "type": "Float32Array",
+            "array": [0,0,0,0,1,0,1,0,0,1,1,0]
+          }
+        }
+      }
+  }
+],
+  "materials": [
+  {
+    "uuid": "87D95D6C-6BB4-4B8F-8166-A3A6945BA5E3",
+    "type": "MeshPhongMaterial",
+    "color": 16777215,
+    "ambient": 16777215,
+    "emissive": 0,
+    "specular": 1118481,
+    "shininess": 30,
+    "opacity": 1,
+    "transparent": false,
+    "wireframe": false
+  }
+]
+}
